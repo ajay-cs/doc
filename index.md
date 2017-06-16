@@ -4,6 +4,7 @@
 
 ![1.png](1.png?raw=true "Title")
 
-2)	Check the target partion and mount point 
+2)	Check the target partition and mount point 
 
-![2.png](2.png?raw=false "Title")
+![qq.png](2.png?raw=false "Title")
+
